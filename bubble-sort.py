@@ -14,7 +14,7 @@ def bubbleSort(arr):
             return
  
  
-arr = [17, 38, 40, 63, 15, 73, 67, 31, 1, 14]
+arr = [49, 82, 77 , 41, 52, 16, 48, 80, 68, 61]
  
 bubbleSort(arr)
  

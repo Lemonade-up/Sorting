@@ -47,7 +47,7 @@ def mergeSort(arr, l, r):
         mergeSort(arr, m+1, r)
         merge(arr, l, m, r)
  
-arr = [17, 38, 40, 63, 15, 73, 67, 31, 1, 14]
+arr = [49, 82, 77 , 41, 52, 16, 48, 80, 68, 61]
 n = len(arr)
 print("Given array is")
 for i in range(n):

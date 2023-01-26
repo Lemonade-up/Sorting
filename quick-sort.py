@@ -26,7 +26,7 @@ def quickSort(array, low, high):
 		quickSort(array, pi + 1, high)
 
 
-data = [17, 38, 40, 63, 15, 73, 67, 31, 1, 14]
+data = [49, 82, 77 , 41, 52, 16, 48, 80, 68, 61]
 print("Unsorted Array")
 print(data)
 

@@ -13,7 +13,7 @@ def selectionSort(array, size):
 
         (array[ind], array[min_index]) = (array[min_index], array[ind])
  
-arr = [17, 38, 40, 63, 15, 73, 67, 31, 1, 14]
+arr = [49, 82, 77 , 41, 52, 16, 48, 80, 68, 61]
 size = len(arr)
 selectionSort(arr, size)
 print('The array after sorting in Ascending Order by selection sort is:')
